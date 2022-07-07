@@ -18,7 +18,7 @@
 *				6) Guardar servicios: Se deberá guardar el listado del punto anterior en un archivo de texto.
 *				7) Salir.
 *
-*	Version: 0.1 del 19 de Junio de 2022
+*	Version: 1.0 del 23 de Junio de 2022
 *	Autor: Agustin Sbernini
 *
 ******************************************************************************************************/
